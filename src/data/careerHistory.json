@@ -1,0 +1,68 @@
+{
+  "jobs": [
+    {
+      "start": "2009-10-01",
+      "end": "2010-09-31",
+      "company": "ThePort Network",
+      "companySite": "https://www.crunchbase.com/organization/theport",
+      "title": "Project Manager / Web Support",
+      "description": "..."
+    },
+    {
+      "start": "2010-10-01",
+      "end": "2012-04-31",
+      "company": "ThePort Network",
+      "companySite": "https://www.crunchbase.com/organization/theport",
+      "title": "Support Developer",
+      "description": "..."
+    },
+    {
+      "start": "2012-05-01",
+      "end": "2012-08-01",
+      "company": "GE Transportation",
+      "companySite": "https://www.getransportation.com/home",
+      "title": "Web Developer",
+      "description": "..."
+    },
+    {
+      "start": "2012-08-01",
+      "end": "2013-08-31",
+      "company": "Kabbage, Inc",
+      "companySite": "https://www.kabbage.com",
+      "title": "Software Engineer",
+      "description": "..."
+    },
+    {
+      "start": "2013-10-01",
+      "end": "2013-05-31",
+      "company": "RentPath",
+      "companySite": "https://www.rentpath.com/",
+      "title": "Software Engineer",
+      "description": "..."
+    },
+    {
+      "start": "2013-06-01",
+      "end": "2017-04-31",
+      "company": "352, Inc",
+      "companySite": "https://www.threefivetwo.com/",
+      "title": "Software Engineer",
+      "description": "..."
+    },
+    {
+      "start": "2017-06-01",
+      "end": "2019-05-01",
+      "company": "Brightwell",
+      "companySite": "https://www.brightwell.com/",
+      "title": "Software Engineer",
+      "description": "..."
+    },
+    {
+      "start": "2019-06-01",
+      "end": null,
+      "company": "FullStory",
+      "companySite": "https://www.fullstory.com/",
+      "title": "Front-End Engineer (Contractor)",
+      "description": "..."
+    }
+  ]
+}
